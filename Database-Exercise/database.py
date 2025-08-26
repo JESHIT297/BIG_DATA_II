@@ -1,5 +1,5 @@
 '''
-Dev: ;Arlon L,
+Dev: ;Marlon L,
 Script description: SQLite3 data base configuration 
 '''
 #Import engine database package
